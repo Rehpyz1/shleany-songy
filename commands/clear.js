@@ -40,8 +40,8 @@ module.exports = {
         .setColor('#3498db')
         .setAuthor({
           name: 'Cleared List',
-          iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157314241393598585/4618-no-slides.png?ex=65182861&is=6516d6e1&hm=dac8fed5a18e1574485e833d4c017591c50f59d161e1bde7fed5f6a92543f951&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://tenor.com/view/roblox-roblox-meme-roblox-memes-boi-wtf-twerk-gif-6690897771582534374',
+          url: 'https://discord.gg/rSTxtq2NHc'
         })
         .setDescription('**Queue cleared! Be Ready for a new musical journey.**')
        
